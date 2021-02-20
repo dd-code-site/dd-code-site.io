@@ -1,6 +1,6 @@
 ---
 title: Laravel中的依赖注入和IoC实现
-date: 2019-09-08
+date: 2020-09-08
 sidebarDepth: 2
 tags:
  - IOC

@@ -1,6 +1,6 @@
 ---
 title: Rabbitmq和Redis用作消息队列的区别
-date: 2019-09-12
+date: 2020-09-12
 tags:
  - 消息队列
 categories:

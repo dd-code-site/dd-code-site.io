@@ -1,6 +1,6 @@
 ---
 title: MacOS Big Sur更新后Git失效的解决方法
-date: 2019-09-12
+date: 2020-09-12
 tags:
  - git
 categories:

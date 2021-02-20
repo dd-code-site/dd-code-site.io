@@ -1,6 +1,6 @@
 ---
 title: 在Mac上使用Homebrew升级到PHP7.4
-date: 2019-09-12
+date: 2020-09-12
 tags:
  - Homebrew
 categories:

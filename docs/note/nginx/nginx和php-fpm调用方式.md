@@ -1,6 +1,6 @@
 ---
 title: nginx和php-fpm调用方式
-date: 2019-09-12
+date: 2020-09-12
 tags:
  - fpm
 categories:

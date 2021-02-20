@@ -1,6 +1,6 @@
 ---
 title: PHP基础-数据类型-string
-date: 2019-09-08
+date: 2020-09-08
 sidebarDepth: 2
 categories:
  - php
