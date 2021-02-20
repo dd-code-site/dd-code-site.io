@@ -25,12 +25,12 @@ module.exports = {
             {text: 'GitHub', link: 'https://github.com/dd-code-site', icon: 'reco-github'}
         ],
         friendLink: [
-            {
-                title: 'dd-code-site',
-                desc: 'Enjoy when you can, and endure when you must.',
-                email: '1064265199@qq.com',
-                link: 'https://www.dd-code.site'
-            },
+            // {
+            //     title: 'dd-code-site',
+            //     desc: 'Enjoy when you can, and endure when you must.',
+            //     email: '1064265199@qq.com',
+            //     link: 'https://www.dd-code.site'
+            // },
         ],
         // 博客设置
         blogConfig: {
@@ -57,7 +57,7 @@ module.exports = {
         // 最后更新时间
         lastUpdated: 'Last Updated',
         // 作者
-        author: '柳旦旦',
+        author: 'Dawson Liu',
         authorAvatar: 'http://phpmianshiwang-s2.test.upcdn.net/PicGo/WechatIMG4.jpeg',
         // 备案号
         record: '域名备案中...',
@@ -65,7 +65,7 @@ module.exports = {
         cyberSecurityRecord: '域名备案中...',
         cyberSecurityLink: 'http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=',
         // 项目开始时间
-        startYear: '2019',
+        startYear: '2020',
         /**
          * valine 评论设置 (if you need valine comment )
          */
