@@ -22,7 +22,7 @@ module.exports = {
             {text: '首页', link: '/', icon: 'reco-home'},
             {text: '时间轴', link: '/timeline/', icon: 'reco-date'},
             {text: '关于', link: '/about/', icon: 'reco-account'},
-            {text: 'GitHub', link: 'https://github.com/liudandandear', icon: 'reco-github'}
+            {text: 'GitHub', link: 'https://github.com/dd-code-site', icon: 'reco-github'}
         ],
         friendLink: [
             {
