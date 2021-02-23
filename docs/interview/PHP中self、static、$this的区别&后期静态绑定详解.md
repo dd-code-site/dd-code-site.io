@@ -1,5 +1,5 @@
 ---
-title:PHP 中self、static、$this的区别&后期静态绑定详解
+title: PHP 中self、static、$this的区别&后期静态绑定详解
 date: 2021-02-23
 tags:
  - self
