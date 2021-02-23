@@ -16,3 +16,4 @@ categories:
 - 存储数据安全：memcache 挂掉后，数据没了；redis 可以定期保存到磁盘（持久化）
 - 灾难恢复：memcache 挂掉后，数据不可恢复; redis 数据丢失后可以通过 aof 恢复
 - Redis支持数据的备份，即 master-slave 模式的数据备份
+
