@@ -1,4 +1,5 @@
-node_modules
-package-lock.json
-.DS_Store
-.idea
+node_modules/
+yarn.lock
+yarn.error
+/.idea/
+/dist/
