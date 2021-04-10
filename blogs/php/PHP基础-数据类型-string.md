@@ -3,7 +3,7 @@ title: PHP基础-数据类型-string
 date: 2020-09-08
 sidebarDepth: 2
 categories:
- - php
+ - PHP
 ---
 
 一个字符串 string 就是由一系列的字符组成，其中每个字符等同于一个字节。

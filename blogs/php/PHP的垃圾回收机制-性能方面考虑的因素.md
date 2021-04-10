@@ -5,7 +5,7 @@ sidebarDepth: 2
 tags:
  - 垃圾回收
 categories:
- - php
+ - PHP
 ---
 
 ## 性能方面考虑的因素

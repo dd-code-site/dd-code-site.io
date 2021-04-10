@@ -3,7 +3,7 @@ title: PHP基础-数据类型-boolean
 date: 2020-09-08
 sidebarDepth: 2
 categories:
- - php
+ - PHP
 ---
 
 > 这是最简单的类型，boolean 表达了真值，可以为 true 或者 false

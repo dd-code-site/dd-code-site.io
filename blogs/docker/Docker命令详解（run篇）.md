@@ -68,39 +68,60 @@ Usage: Run a command in a new container
 
   - `--name=""`， 指定容器名字，后续可以通过名字进行容器管理，links特性需要使用名字
 
-  - ```
-    --net="bridge"
-    ```
-
-    ， 容器网络设置:
-
+  - `--net="bridge"`， 容器网络设置:
     - bridge 使用docker daemon指定的网桥
     - host //容器使用主机的网络
-    - container:NAME_or_ID >//使用其他容器的网路，共享IP和PORT等网络资源
+- container:NAME_or_ID >//使用其他容器的网路，共享IP和PORT等网络资源
     - none 容器使用自己的网络（类似--net=bridge），但是不进行配置
 
   - `--privileged=false`， 指定容器是否为特权容器，特权容器拥有所有的capabilities
-
-  - ```
-    --restart="no"
-    ```
-
-    ， 指定容器停止后的重启策略:
-
+  
+  - `--restart="no"`， 指定容器停止后的重启策略:
     - no：容器退出时不重启
-    - on-failure：容器故障退出（返回值非零）时重启
-    - always：容器退出时总是重启
-
+  - on-failure：容器故障退出（返回值非零）时重启
+  - always：容器退出时总是重启
+  
   - `--rm=false`， 指定容器停止后自动删除容器(不支持以docker run -d启动的容器)
-
+  
   - `--sig-proxy=true`， 设置由代理接受并处理信号，但是SIGCHLD、SIGSTOP和SIGKILL不能被代理
 
 # 示例
 
-- 运行一个在后台执行的容器，同时，还能用控制台管理：`docker run -i -t -d ubuntu:latest`
-- 运行一个带命令在后台不断执行的容器，不直接展示容器内部信息：`docker run -d ubuntu:latest ping www.docker.com`
-- 运行一个在后台不断执行的容器，同时带有命令，程序被终止后还能重启继续跑，还能用控制台管理，`docker run -d --restart=always ubuntu:latest ping www.docker.com`
-- 为容器指定一个名字，`docker run -d --name=ubuntu_server ubuntu:latest`
-- 容器暴露80端口，并指定宿主机80端口与其通信(**:** 之前是宿主机端口，之后是容器需暴露的端口)，`docker run -d --name=ubuntu_server -p 80:80 ubuntu:latest`
-- 指定容器内目录与宿主机目录共享(**:** 之前是宿主机文件夹，之后是容器需共享的文件夹)，`docker run -d --name=ubuntu_server -v /etc/www:/var/www ubuntu:latest`
+- 运行一个在后台执行的容器，同时，还能用控制台管理：
+
+  ```shell
+  docker run -i -t -d ubuntu:latest
+  ```
+
+- 运行一个带命令在后台不断执行的容器，不直接展示容器内部信息：
+
+  ```shell
+  docker run -d ubuntu:latest ping www.docker.com
+  ```
+
+- 运行一个在后台不断执行的容器，同时带有命令，程序被终止后还能重启继续跑，还能用控制台管理：
+
+  ```shell
+  docker run -d --restart=always ubuntu:latest ping www.docker.com
+  ```
+
+- 为容器指定一个名字：
+
+  ```shell
+  docker run -d --name=ubuntu_server ubuntu:latest
+  ```
+
+- 容器暴露80端口，并指定宿主机80端口与其通信(**:** 之前是宿主机端口，之后是容器需暴露的端口)：
+
+  ```shell
+  docker run -d --name=ubuntu_server -p 80:80 ubuntu:latest
+  ```
+
+- 指定容器内目录与宿主机目录共享(**:** 之前是宿主机文件夹，之后是容器需共享的文件夹)
+
+  ```shell
+  docker run -d --name=ubuntu_server -v /etc/www:/var/www ubuntu:latest
+  ```
+
+  
 

@@ -5,7 +5,7 @@ sidebarDepth: 2
 tags:
  - 垃圾回收
 categories:
- - php
+ - PHP
 ---
 
 ## 引用计数基本知识

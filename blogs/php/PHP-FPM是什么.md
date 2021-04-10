@@ -5,7 +5,7 @@ sidebarDepth: 2
 tags:
  - fpm
 categories:
- - php
+ - PHP
 ---
 
 **PHP-FPM** 即 PHP FastCGI的进程管理器。

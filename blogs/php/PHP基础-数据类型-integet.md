@@ -3,7 +3,7 @@ title: PHP基础-数据类型-integet
 date: 2020-09-08
 sidebarDepth: 2
 categories:
- - php
+ - PHP
 ---
 
 

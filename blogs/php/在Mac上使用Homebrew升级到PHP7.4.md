@@ -4,7 +4,8 @@ date: 2020-09-12
 tags:
  - Homebrew
 categories:
- - php
+ - PHP
+
 ---
 
 ## 用brew升级

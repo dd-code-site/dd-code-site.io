@@ -6,7 +6,7 @@ tags:
  - IOC
  - DI
 categories:
- - php
+ - PHP
 ---
 
 对于“控制反转（IOC）”和“依赖注入（DI）”两个概念，首先要明白以下概念：
@@ -246,4 +246,4 @@ $iocC = new IocC();
 ```php
 $iocC->setdb(new db());
 $iocC->setfile(new file());
-```                                                                                                                                               
+```

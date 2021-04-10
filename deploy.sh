@@ -1,12 +1,8 @@
+git add .
+git commit -m 'deploy'
+git push -u origin main
 # 确保脚本抛出遇到的错误
 set -e
-
+yarn run build
 # 生成静态文件
-cloudbase framework:deploy
-
-git add .
-
-git commit -m 'deploy'
-
-# 如果发布到 https://<USERNAME>.github.io
-git push -u origin main
+tcb hosting deploy dist /

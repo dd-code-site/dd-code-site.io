@@ -6,7 +6,7 @@ tags:
  - static
  - this
 categories:
- - 面试
+ - PHP
 ---
 
 为了更好地理解 self、static 和 $this 的区别，先来看一个示例：

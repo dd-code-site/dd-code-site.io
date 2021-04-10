@@ -5,7 +5,7 @@ sidebarDepth: 2
 tags:
  - fpm
 categories:
- - php
+ - PHP
 ---
 
 ### 1：static 模式（静态模式）

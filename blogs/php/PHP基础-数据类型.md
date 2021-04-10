@@ -3,7 +3,7 @@ title: PHP基础-数据类型
 date: 2020-09-08
 sidebarDepth: 2
 categories:
- - php
+ - PHP
 ---
 
 ## PHP支持10中原始数据类型

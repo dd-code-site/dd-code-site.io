@@ -3,7 +3,7 @@ title: PHP字符串函数
 date: 2020-09-08
 sidebarDepth: 2
 categories:
- - php
+ - PHP
 ---
 
 ## 打印字符串的第一个字符

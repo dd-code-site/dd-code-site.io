@@ -86,14 +86,14 @@ module.exports = {
         "link": "https://vuepress-theme-reco.recoluan.com"
       }
     ],
-    "logo": "http://phpmianshiwang-s2.test.upcdn.net/PicGo/WechatIMG4.jpeg",
+    "logo": "https://cdn.dd-code.site/PicGo/WechatIMG4.jpeg",
     "search": true,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
-    "author": "dawson2",
-    "authorAvatar": "/avatar.png",
-    "record": "xxxx",
-    "startYear": "2017"
+    "author": "柳旦旦",
+    "authorAvatar": "https://cdn.dd-code.site/PicGo/WechatIMG4.jpeg",
+    "record": "宁ICP备2021001341号-1",
+    "startYear": "2020"
   },
   "markdown": {
     "lineNumbers": true

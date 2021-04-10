@@ -5,7 +5,7 @@ tags:
  - self
  - $this
 categories:
- - 面试
+ - PHP
 ---
 
 最主要的区别是self代表的是类, $this代表的是对象
