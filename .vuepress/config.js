@@ -20,24 +20,25 @@ module.exports = {
   ],
   "theme": "reco",
   "themeConfig": {
+    subSidebar: 'auto',//在所有页面中启用自动生成子侧边栏，原 sidebar 仍然兼容
     "nav": [
       {
-        "text": "Home",
+        "text": "首页💡",
         "link": "/",
         "icon": "reco-home"
       },
       {
-        "text": "TimeLine",
+        "text": "时间线⏱",
         "link": "/timeline/",
         "icon": "reco-date"
       },
       {
-        "text": "Docs",
+        "text": "课程📚",
         "icon": "reco-message",
         "items": [
           {
-            "text": "vuepress-reco",
-            "link": "/docs/theme-reco/"
+            "text": "22讲通关Go语言",
+            "link": "/docs/twenty-two-speaking-go-language/"
           }
         ]
       },
@@ -54,7 +55,7 @@ module.exports = {
       }
     ],
     "sidebar": {
-      "/docs/theme-reco/": [
+      "/docs/twenty-two-speaking-go-language/": [
         "",
         "theme",
         "plugin",
@@ -65,11 +66,11 @@ module.exports = {
     "blogConfig": {
       "category": {
         "location": 2,
-        "text": "Category"
+        "text": "分类🤡"
       },
       "tag": {
         "location": 3,
-        "text": "Tag"
+        "text": "标签🏷"
       }
     },
     "friendLink": [
