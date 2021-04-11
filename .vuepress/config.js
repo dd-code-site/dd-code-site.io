@@ -43,7 +43,7 @@ module.exports = {
         ]
       },
       {
-        "text": "Contact",
+        "text": "关于我🙂",
         "icon": "reco-message",
         "items": [
           {
