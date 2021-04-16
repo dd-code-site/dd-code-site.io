@@ -6,13 +6,13 @@
     "functions": [],
     "region": "ap-shanghai",
     "framework": {
-        "name": "blog",
+        "name": "dd-code-site",
         "plugins": {
-            "vuepress": {
+            "hexo": {
                 "use": "@cloudbase/framework-plugin-website",
                 "inputs": {
-                    "buildCommand": "npm run build",
-                    "outputPath": "/dist"
+                    "buildCommand": "npx hexo generate",
+                    "outputPath": "./public"
                 }
             }
         }

@@ -1,8 +1,10 @@
 # 确保脚本抛出遇到的错误
 set -e
-yarn run build
+# 安装依赖
+npm install --prefer-offline --no-audit --progress=false
 # 生成静态文件
-tcb hosting deploy dist /
+npx hexo generate
+tcb hosting deploy public /
 git add .
 git commit -m 'deploy'
-git push -u origin main
+git push -f origin main

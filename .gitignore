@@ -1,5 +1,7 @@
+.DS_Store
+Thumbs.db
+db.json
+*.log
 node_modules/
-yarn.lock
-yarn.error
-/.idea/
-/dist/
+public/
+.deploy*/
