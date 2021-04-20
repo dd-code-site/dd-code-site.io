@@ -1,5 +1,6 @@
 ---
 title: echo (int)((0.1+0.7)*10)输出的结果是？
+categories: [其他]
 tags: [面试]
 ---
 
