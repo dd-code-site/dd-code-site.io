@@ -11,14 +11,6 @@ author: Dawson Liu
 language: zh
 timezone: ''
 
-# Menus
-menu:
-  首页: /
-  归档: /archives
-  分类: /categories
-  标签: /tags
-  关于: /about
-
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://dd-code.site
