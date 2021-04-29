@@ -1,6 +1,10 @@
 ---
 title: Redis持久化
-categories: [技术开发,数据库,Redis]
+categories:
+  - 技术开发
+  - 数据库
+  - Redis
+abbrlink: 295621084
 ---
 
 - Redis是一种高级的key- value数据库。它所有的数据都保存在内存中，然后不定期的通过异步方式保存到磁盘上（这种称为“半持久化模式”），也可以把每一次的数据变化都写入到append only file（aof）里面（称为“全持久化模式”）。

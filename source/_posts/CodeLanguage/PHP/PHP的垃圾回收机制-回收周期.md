@@ -1,6 +1,9 @@
 ---
 title: PHP的垃圾回收机制-回收周期
-categories: [程序语言,PHP]
+categories:
+  - 程序语言
+  - PHP
+abbrlink: 1247192045
 ---
 
 ## 回收周期(Collecting Cycles)

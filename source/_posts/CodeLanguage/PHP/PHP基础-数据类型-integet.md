@@ -1,6 +1,9 @@
 ---
 title: PHP基础-数据类型-integet
-categories: [程序语言,PHP]
+categories:
+  - 程序语言
+  - PHP
+abbrlink: 221785719
 ---
 
 

@@ -1,6 +1,10 @@
 ---
 title: MySQL索引类型
-categories: [技术开发,数据库,MySQL]
+categories:
+  - 技术开发
+  - 数据库
+  - MySQL
+abbrlink: 1647528259
 ---
 
 ## 1：普通索引

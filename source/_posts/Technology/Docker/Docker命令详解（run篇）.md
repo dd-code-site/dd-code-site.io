@@ -1,6 +1,9 @@
 ---
 title: Docker命令详解（run篇）
-categories: [技术开发,Docker]
+categories:
+  - 技术开发
+  - Docker
+abbrlink: 2104589309
 ---
 
 命令格式：`docker run [OPTIONS] IMAGE [COMMAND] [ARG...]`

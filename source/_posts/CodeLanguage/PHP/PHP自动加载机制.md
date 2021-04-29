@@ -1,6 +1,9 @@
 ---
 title: PHP自动加载机制
-categories: [程序语言,PHP]
+categories:
+  - 程序语言
+  - PHP
+abbrlink: 3981571320
 ---
 
 类的载入共经历了三个阶段：

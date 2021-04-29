@@ -1,6 +1,10 @@
 ---
 title: MySQL基础-整数类型
-categories: [技术开发,数据库,MySQL]
+categories:
+  - 技术开发
+  - 数据库
+  - MySQL
+abbrlink: 1988337205
 ---
 
 整数类型又称数值型数据，数值型数据类型主要用来存储数字。

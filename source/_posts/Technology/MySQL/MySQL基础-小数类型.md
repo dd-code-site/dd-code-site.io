@@ -1,6 +1,10 @@
 ---
 title: MySQL基础-小数类型
-categories: [技术开发,数据库,MySQL]
+categories:
+  - 技术开发
+  - 数据库
+  - MySQL
+abbrlink: 1724192415
 ---
 
 MySQL 中使用浮点数和定点数来表示小数。

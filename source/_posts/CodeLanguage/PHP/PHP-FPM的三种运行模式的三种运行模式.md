@@ -1,6 +1,9 @@
 ---
 title: PHP-FPM的三种运行模式
-categories: [程序语言,PHP]
+categories:
+  - 程序语言
+  - PHP
+abbrlink: 4276646924
 ---
 
 ### 1：static 模式（静态模式）

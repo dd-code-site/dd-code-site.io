@@ -1,6 +1,9 @@
 ---
 title: PHP 中self、static、$this的区别&后期静态绑定详解
-categories: [程序语言,PHP]
+categories:
+  - 程序语言
+  - PHP
+abbrlink: 2140386669
 ---
 
 为了更好地理解 self、static 和 $this 的区别，先来看一个示例：

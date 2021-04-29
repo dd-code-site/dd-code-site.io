@@ -1,6 +1,10 @@
 ---
 title: MySQL常见问题
-categories: [技术开发,数据库,MySQL]
+categories:
+  - 技术开发
+  - 数据库
+  - MySQL
+abbrlink: 445316081
 ---
 
 ## （一）死锁

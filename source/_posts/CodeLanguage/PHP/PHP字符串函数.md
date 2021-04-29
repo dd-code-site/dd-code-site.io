@@ -1,6 +1,9 @@
 ---
 title: PHP字符串函数
-categories: [程序语言,PHP]
+categories:
+  - 程序语言
+  - PHP
+abbrlink: 1503101483
 ---
 
 ## 打印字符串的第一个字符

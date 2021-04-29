@@ -1,6 +1,9 @@
 ---
 title: PHP-FPM是什么
-categories: [程序语言,PHP]
+categories:
+  - 程序语言
+  - PHP
+abbrlink: 1171510126
 ---
 
 **PHP-FPM** 即 PHP FastCGI的进程管理器。

@@ -1,7 +1,11 @@
 ---
 title: linux系统scp文件传输
-categories: [服务Server]
-tags: [技术开发,Linux]
+categories:
+  - 服务Server
+tags:
+  - 技术开发
+  - Linux
+abbrlink: 82110573
 ---
 
 ## 命令格式

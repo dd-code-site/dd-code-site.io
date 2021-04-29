@@ -1,6 +1,9 @@
 ---
 title: Docker相关命令
-categories: [技术开发,Docker]
+categories:
+  - 技术开发
+  - Docker
+abbrlink: 564644262
 ---
 
 查看 docker 的所有命令

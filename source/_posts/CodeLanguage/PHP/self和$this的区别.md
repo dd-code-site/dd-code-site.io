@@ -1,6 +1,9 @@
 ---
 title: self和$this的区别
-categories: [程序语言,PHP]
+categories:
+  - 程序语言
+  - PHP
+abbrlink: 137484498
 ---
 
 最主要的区别是self代表的是类, $this代表的是对象

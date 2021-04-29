@@ -1,6 +1,10 @@
 ---
 title: 了解Redis
-categories: [技术开发,数据库,Redis]
+categories:
+  - 技术开发
+  - 数据库
+  - Redis
+abbrlink: 1099414406
 ---
 
 Redis 是一个开源的内存中的数据结构存储系统，它可以用作数据库、缓存和消息中间件。它支持多种类型的数据结构，如：

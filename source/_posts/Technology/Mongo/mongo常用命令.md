@@ -1,6 +1,10 @@
 ---
 title: mongo常用命令
-categories: [技术开发,数据库,Mongo]
+categories:
+  - 技术开发
+  - 数据库
+  - Mongo
+abbrlink: 1691421171
 ---
 
 ```shell

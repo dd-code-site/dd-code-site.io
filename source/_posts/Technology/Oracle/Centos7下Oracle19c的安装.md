@@ -1,6 +1,10 @@
 ---
 title: Centos7下Oracle19c的安装
-categories: [技术开发,数据库,Oracle]
+categories:
+  - 技术开发
+  - 数据库
+  - Oracle
+abbrlink: 1452475922
 ---
 
 ## 第一步：检查Linux系统版本

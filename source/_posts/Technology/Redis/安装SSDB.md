@@ -1,7 +1,12 @@
 ---
 title: 安装SSDB
-categories: [技术开发,数据库,SSDB]
-tags: [SSDB]
+categories:
+  - 技术开发
+  - 数据库
+  - SSDB
+tags:
+  - SSDB
+abbrlink: 1058490118
 ---
 
 ## 什么是SSDB

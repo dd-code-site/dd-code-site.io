@@ -1,6 +1,9 @@
 ---
 title: PHP的垃圾回收机制-性能方面考虑的因素
-categories: [程序语言,PHP]
+categories:
+  - 程序语言
+  - PHP
+abbrlink: 2943915566
 ---
 
 ## 性能方面考虑的因素

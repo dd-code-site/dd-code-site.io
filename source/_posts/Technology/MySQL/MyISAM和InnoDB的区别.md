@@ -1,6 +1,10 @@
 ---
 title: MyISAM和InnoDB的区别
-categories: [技术开发,数据库,MySQL]
+categories:
+  - 技术开发
+  - 数据库
+  - MySQL
+abbrlink: 4025057969
 ---
 
 - MyISAM 强调的是性能，查询速度快，支持表锁，支持全文索引，并发较小，不支持事务型操作，不支持外键，崩溃后不可自动恢复

@@ -1,6 +1,10 @@
 ---
 title: mongo新建用户
-categories: [技术开发,数据库,Mongo]
+categories:
+  - 技术开发
+  - 数据库
+  - Mongo
+abbrlink: 3140326379
 ---
 
 连接 mongo之后

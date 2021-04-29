@@ -1,6 +1,10 @@
 ---
 title: Redis设置密码
-categories: [技术开发,数据库,Redis]
+categories:
+  - 技术开发
+  - 数据库
+  - Redis
+abbrlink: 1685059487
 ---
 
 Redis 没有实现访问控制这个功能，但是它提供了一个轻量级的认证方式，可以编辑 `redis.conf` 配置来启用认证。

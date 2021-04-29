@@ -1,6 +1,10 @@
 ---
 title: Redis数据类型比较和使用场景
-categories: [技术开发,数据库,Redis]
+categories:
+  - 技术开发
+  - 数据库
+  - Redis
+abbrlink: 1349846639
 ---
 
 > Redis 支持五种数据类型：

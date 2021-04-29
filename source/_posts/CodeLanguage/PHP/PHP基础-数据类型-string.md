@@ -1,6 +1,9 @@
 ---
 title: PHP基础-数据类型-string
-categories: [程序语言,PHP]
+categories:
+  - 程序语言
+  - PHP
+abbrlink: 3247369179
 ---
 
 一个字符串 string 就是由一系列的字符组成，其中每个字符等同于一个字节。

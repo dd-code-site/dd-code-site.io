@@ -1,6 +1,10 @@
 ---
 title: 缓存Memcache和Redis的区别
-categories: [技术开发,数据库,Redis]
+categories:
+  - 技术开发
+  - 数据库
+  - Redis
+abbrlink: 894376550
 ---
 
 - Redis 和 Memcache 都是将数据存放在内存中，都是内存数据库。不过 memcache 还可用于缓存其他东西，例如图片、视频等等

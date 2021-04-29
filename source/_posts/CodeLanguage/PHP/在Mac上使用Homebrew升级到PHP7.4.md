@@ -1,6 +1,9 @@
 ---
 title: 在Mac上使用Homebrew升级到PHP7.4
-categories: [程序语言,PHP]
+categories:
+  - 程序语言
+  - PHP
+abbrlink: 2844724790
 ---
 
 ## 用brew升级

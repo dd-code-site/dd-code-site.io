@@ -1,6 +1,10 @@
 ---
 title: MySQL索引和存储引擎
-categories: [技术开发,数据库,MySQL]
+categories:
+  - 技术开发
+  - 数据库
+  - MySQL
+abbrlink: 70487411
 ---
 
 ## 索引

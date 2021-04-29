@@ -1,6 +1,10 @@
 ---
 title: 了解Memcache
-categories: [技术开发,数据库,Memcache]
+categories:
+  - 技术开发
+  - 数据库
+  - Memcache
+abbrlink: 2253204330
 ---
 
 ## memcache 概述

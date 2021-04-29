@@ -1,6 +1,10 @@
 ---
 title: MySQL查询重复的数据
-categories: [技术开发,数据库,MySQL]
+categories:
+  - 技术开发
+  - 数据库
+  - MySQL
+abbrlink: 961775144
 ---
 
 查询字段 fund_id 重复的数据

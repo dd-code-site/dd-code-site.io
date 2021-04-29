@@ -1,6 +1,9 @@
 ---
 title: PHP控制反转（IOC）和依赖注入（DI）
-categories: [程序语言,PHP]
+categories:
+  - 程序语言
+  - PHP
+abbrlink: 2916108243
 ---
 
 对于“控制反转（IOC）”和“依赖注入（DI）”两个概念，首先要明白以下概念：

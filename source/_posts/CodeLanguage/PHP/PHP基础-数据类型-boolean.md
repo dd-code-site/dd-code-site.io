@@ -1,6 +1,9 @@
 ---
 title: PHP基础-数据类型-boolean
-categories: [程序语言,PHP]
+categories:
+  - 程序语言
+  - PHP
+abbrlink: 886155297
 ---
 
 > 这是最简单的类型，boolean 表达了真值，可以为 true 或者 false

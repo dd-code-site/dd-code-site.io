@@ -1,6 +1,10 @@
 ---
 title: MySQL索引失效情况
-categories: [技术开发,数据库,MySQL]
+categories:
+  - 技术开发
+  - 数据库
+  - MySQL
+abbrlink: 548465112
 ---
 
 首先，复习一下索引的创建：

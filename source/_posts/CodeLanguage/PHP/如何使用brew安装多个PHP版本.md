@@ -1,6 +1,9 @@
 ---
 title: 如何使用brew安装多个PHP版本
-categories: [程序语言,PHP]
+categories:
+  - 程序语言
+  - PHP
+abbrlink: 3712615104
 ---
 
 一 安装7.1

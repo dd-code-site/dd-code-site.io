@@ -1,6 +1,9 @@
 ---
 title: PHP的垃圾回收机制-引用计数
-categories: [程序语言,PHP]
+categories:
+  - 程序语言
+  - PHP
+abbrlink: 2776614029
 ---
 
 ## 引用计数基本知识

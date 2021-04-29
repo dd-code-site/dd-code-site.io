@@ -1,6 +1,10 @@
 ---
 title: MySQL优化
-categories: [技术开发,数据库,MySQL]
+categories:
+  - 技术开发
+  - 数据库
+  - MySQL
+abbrlink: 748313607
 ---
 
 - 对查询进行优化，应尽量避免全表扫描，首先应考虑在 `where` 及 order by 涉及的列上建立索引。  

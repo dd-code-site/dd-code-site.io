@@ -1,6 +1,10 @@
 ---
 title: docker安装oracle19c
-categories: [技术开发,数据库,Oracle]
+categories:
+  - 技术开发
+  - 数据库
+  - Oracle
+abbrlink: 3032572741
 ---
 
 ## 拉取镜像

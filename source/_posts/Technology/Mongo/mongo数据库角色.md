@@ -1,6 +1,10 @@
 ---
 title: mongo数据库角色
-categories: [技术开发,数据库,Mongo]
+categories:
+  - 技术开发
+  - 数据库
+  - Mongo
+abbrlink: 1323723771
 ---
 
 ## 内建的角色

@@ -1,6 +1,9 @@
 ---
 title: PHP基础-数据类型-float
-categories: [程序语言,PHP]
+categories:
+  - 程序语言
+  - PHP
+abbrlink: 4235469996
 ---
 
 浮点型（也叫浮点数，双精度数 double 或实数 real）可以用以下任一语法定义：

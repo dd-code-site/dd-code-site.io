@@ -1,7 +1,11 @@
 ---
 title: Ubuntu防火墙的使用和开放关闭端口
-categories: [服务Server]
-tags: [技术开发,Ubuntu]
+categories:
+  - 服务Server
+tags:
+  - 技术开发
+  - Ubuntu
+abbrlink: 1879866913
 ---
 
 查看防火墙状态（Ubuntu系统默认是安装了ufw防火墙）

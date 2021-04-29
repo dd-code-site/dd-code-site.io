@@ -1,6 +1,10 @@
 ---
 title: 使用MySqlDump备份
-categories: [技术开发,数据库,MySQL]
+categories:
+  - 技术开发
+  - 数据库
+  - MySQL
+abbrlink: 2178661577
 ---
 
 ## 如何备份数据库

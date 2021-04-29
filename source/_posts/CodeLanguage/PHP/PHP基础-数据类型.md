@@ -1,6 +1,9 @@
 ---
 title: PHP基础-数据类型
-categories: [程序语言,PHP]
+categories:
+  - 程序语言
+  - PHP
+abbrlink: 2518559853
 ---
 
 ## PHP支持10中原始数据类型

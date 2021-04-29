@@ -1,6 +1,9 @@
 ---
 title: PHP基础-数据类型-string和int比较
-categories: [程序语言,PHP]
+categories:
+  - 程序语言
+  - PHP
+abbrlink: 740536292
 ---
 
 > 在php中，string 类型和 int 类型相比较，string 类型的值会被转为 int 类型，实质上是两个 int 类型的数值相互比较。
