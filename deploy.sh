@@ -3,6 +3,7 @@ set -e
 # 安装依赖
 # npm install --prefer-offline --no-audit --progress=false
 # 生成静态文件
+hexo clean
 npx hexo generate
 tcb hosting deploy public /
 git add .
